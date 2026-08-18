@@ -1,16 +1,41 @@
-# React + Vite
+# ApplyFlow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ApplyFlow is a responsive job application tracking landing page built as part of a frontend design challenge.
 
-Currently, two official plugins are available:
+The idea behind ApplyFlow is simple: help job seekers keep track of applications, interviews, follow-ups, and offers without relying on spreadsheets.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
 
-## React Compiler
+https://applyflow-brown.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## GitHub Repository
 
-## Expanding the ESLint configuration
+https://github.com/sunnypandey01/applyflow
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+
+## Features
+
+- Responsive landing page
+- Product-focused hero section
+- Job application dashboard preview
+- Application pipeline
+- Application analytics preview
+- Product showcase section
+- How it works section
+- Responsive design for mobile and desktop
+- Scroll and hover animations
+- Vercel deployment
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sunnypandey01/applyflow.git
